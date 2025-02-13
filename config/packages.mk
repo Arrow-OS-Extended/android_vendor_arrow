@@ -20,17 +20,17 @@ PRODUCT_PACKAGES += \
     CalendarFossify \
     GameSpace \
     GalleryFossify \
-    Iceraven \
+    Gramophone \
     LatinIME \
     Launcher3QuickStep \
     MotoCalculator \
     ParallelSpace \
     messaging \
     Seedvault \
-    SimpleMusicPlayer \
     Stk \
     stats \
-    ThemePicker
+    ThemePicker \
+    ViaBrowser
 
 # SystemUI plugins
 PRODUCT_PACKAGES += \
