@@ -95,9 +95,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
     persist.sys.pihooks_DEVICE?=tokay \
     persist.sys.pihooks_PRODUCT?=tokay_beta \
     persist.sys.pihooks_DEVICE_INITIAL_SDK_INT?=25 \
-    persist.sys.pihooks_SECURITY_PATCH?=2025-01-05 \
-    persist.sys.pihooks_ID?=BP22.250103.008
+    persist.sys.pihooks_SECURITY_PATCH?=2025-02-05 \
+    persist.sys.pihooks_ID?=BP22.250124.009
 
-PIHOOKS_BUILD_GMS_FINGERPRINT := google/tokay_beta/tokay:Baklava/BP22.250103.008/12932282:user/release-keys
+PIHOOKS_BUILD_GMS_FINGERPRINT := google/tokay_beta/tokay:Baklava/BP22.250124.009/13034193:user/release-keys
 PIHOOKS_BUILD_FINGERPRINT := google/caiman/caiman:14/AD1A.240530.047.U1/12150698:user/release-keys
 PIHOOKS_MODEL_SPOOF := "Pixel 9 Pro"
